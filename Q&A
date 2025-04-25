@@ -1,0 +1,9 @@
+What is Helm?
+    Package Manager on Kubernetes
+
+What is a tag?
+    Tag is a label accociated with the uploaded Docker image. Used for identifying and retriving specific version.
+
+docker.contentDigest
+    It represents the cryptographic hash of the Docker's image content
+    <algorithm>:<hexadecimal_hash>
